@@ -14,6 +14,7 @@ void main() {
       '/profile':(context)=>  creatorProfilePage(),
       '/wallet':(context)=>  MainScreen(),
       '/create':(context)=>  MainScreen(),
+      // update to
 
     },
   ));
